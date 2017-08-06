@@ -2,10 +2,6 @@
 ##### By Hernán Olarte
 ##### Github user: hernan940730
 
-## Github repository link: 
-[Repository](https://github.com/hernan940730/MovilesUnal)
-
 ## Retos:
-### Reto 1: 
-[Reto 1](https://github.com/hernan940730/MovilesUnal/raw/master/reto1.zip)
+### Reto 1: <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto1.zip" class="btn">Download as .zip</a>
         
