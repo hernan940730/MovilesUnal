@@ -3,9 +3,9 @@
 ##### Github user: hernan940730
 
 ## Github repository link: 
-    [Repository](https://github.com/hernan940730/MovilesUnal)
+[Repository](https://github.com/hernan940730/MovilesUnal)
 
 ## Retos:
 ### Reto 1: 
-    	[Reto 1](https://github.com/hernan940730/MovilesUnal/raw/master/reto1.zip)
+[Reto 1](https://github.com/hernan940730/MovilesUnal/raw/master/reto1.zip)
         
