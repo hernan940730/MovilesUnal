@@ -4,3 +4,4 @@
 ## - Reto 1: "Propuesta Proyecto"
    <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto1.zip" class="btn">Download reto 1 as .zip</a>
 ## - Reto 2: "Prototipo y Modelo Canvas"
+   <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto2.zip" class="btn">Download reto 2 as .zip</a>
