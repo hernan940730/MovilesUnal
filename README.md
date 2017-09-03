@@ -8,3 +8,5 @@
 ## - Reto 3: "Juguemos Triqui"
    <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto3.zip" class="btn">Download reto 3 as .zip</a>
 ## - Reto 4: "Mejorando nuestro Triqui"
+   <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto4.zip" class="btn">Download reto 4 as .zip</a>
+## - Reto 5: "Incorporando gráficos y audio"
