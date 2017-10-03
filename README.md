@@ -12,3 +12,5 @@
 ## - Reto 5: "Incorporando gráficos y audio"
    <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto5.zip" class="btn">Download reto 5 as .zip</a>
 ## - Reto 6: "Cambiando de orientación y guardando el estado"
+   <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto6.zip" class="btn">Download reto 6 as .zip</a>
+## - Reto 7: "Preferencias"
