@@ -14,3 +14,5 @@
 ## - Reto 6: "Cambiando de orientación y guardando el estado"
    <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto6.zip" class="btn">Download reto 6 as .zip</a>
 ## - Reto 7: "Preferencias"
+   <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto7.zip" class="btn">Download reto 7 as .zip</a>
+## - Reto 7a: "Jugando triqui online"
