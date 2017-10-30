@@ -16,3 +16,5 @@
 ## - Reto 7: "Preferencias"
    <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto7.zip" class="btn">Download reto 7 as .zip</a>
 ## - Reto 7a: "Jugando triqui online"
+   <a href="https://github.com/hernan940730/MovilesUnal/raw/master/reto7a.zip" class="btn">Download reto 7a as .zip</a>
+## - Reto 8: "Usando SQLite"
